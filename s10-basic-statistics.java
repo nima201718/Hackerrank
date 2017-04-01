@@ -4,6 +4,7 @@ import java.util.Scanner;
 /**
  *
  * @author yas
+ *@author wiychnue@gmail.com
  */
 public class Solotion {
     public static void main(String[] args) {
